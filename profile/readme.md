@@ -13,13 +13,13 @@ Rixroent Pvt Ltd is a product-first tech company focused on execution, scalabili
 🔐 **Security first** — trust and privacy by design  
 📈 **Scalable engineering** — built for performance and growth  
 🌍 **Aligned with market needs** — practical adoption over hype  
-🤝 **Long-term partnership** — continuous support and improvement :contentReference[oaicite:1]{index=1}
+🤝 **Long-term partnership** — continuous support and improvement :contentReference
 
 ---
 
 ## 🛠 Our Ecosystem & Products
 
-We build each product with its own roadmap, team, and success metrics — backed by strong governance and engineering discipline. :contentReference[oaicite:2]{index=2}
+We build each product with its own roadmap, team, and success metrics — backed by strong governance and engineering discipline.
 
 ### 🚀 Market-Ready Platforms
 
@@ -28,13 +28,13 @@ We build each product with its own roadmap, team, and success metrics — backed
 | **Uniiintern** | Internships & skills pathways for students |
 | **EasyServe** | Local services marketplace connecting users & providers |
 | **AI Influencer** | AI-powered digital content engine for brand growth |
-| **AI Outfit Predictor** | AI + smart mirror system for intelligent retail recommendations | :contentReference[oaicite:3]{index=3}
+| **AI Outfit Predictor** | AI + smart mirror system for intelligent retail recommendations |
 
 ---
 
 ## 🧠 Our Approach
 
-We’re not just builders — we’re systems thinkers and long-term partners. Here’s how we approach products: :contentReference[oaicite:4]{index=4}
+We’re not just builders — we’re systems thinkers and long-term partners. Here’s how we approach products:
 
 ✅ Product-First Thinking  
 ✅ Fast MVP and Iteration Cycles  
@@ -47,7 +47,7 @@ We’re not just builders — we’re systems thinkers and long-term partners. H
 
 ## 🔧 Tech Stack
 
-We leverage modern technologies and frameworks to deliver robust, scalable solutions: :contentReference[oaicite:5]{index=5}
+We leverage modern technologies and frameworks to deliver robust, scalable solutions:
 
 - **Frontend**: Next.js, React, TypeScript  
 - **Backend**: Python, Django  
