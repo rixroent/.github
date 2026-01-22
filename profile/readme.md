@@ -1,6 +1,6 @@
 # 🚀 Rixroent Pvt Ltd
 
-Welcome to **Rixroent Pvt Ltd** — a multi-product technology company building **scalable digital products** with real-world adoption, measurable value, and future-ready engineering. We create platforms across **education, services, AI media and retail tech** that solve real challenges and drive growth. :contentReference[oaicite:0]{index=0}
+Welcome to **Rixroent Pvt Ltd** — a multi-product technology company building **scalable digital products** with real-world adoption, measurable value, and future-ready engineering. We create platforms across **education, services, AI media and retail tech** that solve real challenges and drive growth.
 
 ---
 
